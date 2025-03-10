@@ -1,0 +1,20 @@
+{
+  "levels": [
+    {
+      "outlay": "src/test/java/lawnlayer/AppTest/goalComplete/levelCompleted.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        }
+      ],
+      "powerups": "none",
+      "goal": 0.5
+    }
+  ],
+  "lives": 3
+}

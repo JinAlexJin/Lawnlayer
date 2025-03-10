@@ -1,0 +1,77 @@
+{
+  "levels": [
+    {
+      "outlay": "level1.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "10,20"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        }
+      ],
+      "powerups": "none",
+      "goal": 0.8
+    },
+    {
+      "outlay": "level2.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 1,
+          "spawn": "random"
+        }
+      ],
+      "powerups": "ball",
+      "goal": 0.8
+    },
+    {
+      "outlay": "level2.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 1,
+          "spawn": "random"
+        }
+      ],
+      "powerups": "enemy",
+      "goal": 0.8
+    },
+    {
+      "outlay": "level2.txt",
+      "enemies": [
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 0,
+          "spawn": "random"
+        },
+        {
+          "type": 1,
+          "spawn": "random"
+        }
+      ],
+      "powerups": "both",
+      "goal": 0.8
+    }
+  ],
+  "lives": 3
+}
